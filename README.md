@@ -17,7 +17,7 @@ Hello! I'm Emre Nitim, a computer engineering student with a passion for artific
 - [NeuroEvolution Asteroid Game](https://github.com/emrenitim/neuroevolution-asteroid-game): I developed both the asteroid game and the AI components. The project involved creating a JavaScript-based asteroid game, and then implementing and training an agent using the NeuroEvolution algorithm to play the game effectively.
 
 ## Learning and Interests
-Currently, I'm expanding my knowledge in Unity and ML-Agents, and I'm also interested in exploring alternative game engines and tools that combine AI and game development.
+Currently, I'm expanding my knowledge in computer graphics concepts, shader programming, Unity and ML-Agents, and I'm also interested in exploring alternative game engines and tools that combine AI and game development.
 
 ## Hobbies
 Outside of coding and playing games, I have a few hobbies that I enjoy:
