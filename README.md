@@ -19,9 +19,19 @@ Hello! I'm Emre Nitim, a computer engineering student with a passion for artific
 ## Learning and Interests
 Currently, I'm expanding my knowledge in Unity and ML-Agents, and I'm also interested in exploring alternative game engines and tools that combine AI and game development.
 
+## Hobbies
+Outside of coding and playing games, I have a few hobbies that I enjoy:
+
+- Magic: I have been fascinated by magic since my childhood and have been learning and practicing various tricks. Currently, I am focusing on coin magic and exploring its intricacies.
+- Piano: I have been self-teaching piano for the past 5 years. It has been an incredible journey, and I find joy in continually learning and improving my piano skills.
+- Lucid Dreaming: For the past 3 years, I have been practicing lucid dreaming. Exploring the realm of lucid dreams allows me to delve into the depths of my subconscious mind and experience vivid and interactive dreams.
+
+My hobbies in magic and lucid dreaming enhance my creativity and provide me with unique perspectives. Self-teaching piano demonstrates my dedication to learning new skills and my ability to embrace challenges.
+
 ## Contact and Links
 - Email: emrenitim@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/emrenitim)
 - [ProjectKorra Forum Page](https://projectkorra.com/forum/members/emre-nitim.18109/)
 
 Feel free to reach out to me for collaboration, internship opportunities, or any inquiries.
+
