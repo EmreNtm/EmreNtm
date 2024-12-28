@@ -19,7 +19,7 @@ Game Development | Artifical Intelligence | Addon Development
 
 - Minecraft Related Projects
 >[Inverse Kinematics Library:](https://github.com/EmreNtm/minecraft-inversekinematics-tentacle) A library you can use to create 3D inverse kinematics tentacles.\
-[ProjectKorra Addon Abilities:]() Collection of my addon abilities for ProjectKorra  plugin.\
+[ProjectKorra Addon Abilities:](https://github.com/EmreNtm/ProjectKorra-Addon-Abilities) Collection of my addon abilities for ProjectKorra  plugin.\
 [ProjectKorra Hackathon Pack:](https://github.com/EmreNtm/pk-hackathonpack-2021) A smaller addon ability pack for 2021 ProjectKorra Hackathon.\
 [ProjectKorra Tutorials:](https://github.com/EmreNtm/projectkorra-tutorials) ProjectKorra addon ability templates for different kind of abilities.\
 [TerraSense:](https://github.com/EmreNtm/terrasense) An addon ability that simulates Toph's seismicsensing using packet manipulation.
