@@ -1,37 +1,41 @@
-# Emre Nitim
+# Software Engineer  
 
-## Introduction
-Hello! I'm Emre Nitim, a computer engineering student with a passion for artificial intelligence and game development. I have experience with various programming languages and technologies, and I'm always eager to learn and explore new tools and frameworks.
+Game Development | Artifical Intelligence | Addon Development
 
-## Skills and Expertise
-- Languages: C, Java, C#, JavaScript, Python, Assembly, Pascal, Prolog
-- Technologies:
-  - Unity Game Engine: Developed two games, one focusing on underwater exploration with procedural terrain generation using the Marching Cubes algorithm and boids algorithm, and another with a multiplayer space game utilizing Reinforcement Learning agents and server-authoritative FishNet networking solution.
-  - ML-Agents: Trained intelligent spaceship weapons and movement agents using Reinforcement Learning.
-  - Processing: Familiar with this creative coding platform.
-- Addon Development: Developed popular Java addons for the ProjectKorra plugin in Minecraft, with over 40,000 downloads. These addons feature special abilities based on the Avatar: The Last Airbender theme.
 
-## Projects and Achievements
-- [Underwater Exploration Game](https://github.com/emrenitim/underwater-exploration-game): A Unity-based game showcasing procedural terrain generation using the Marching Cubes algorithm and boids algorithm for underwater environments.
-- [Multiplayer Space Game](https://github.com/emrenitim/multiplayer-space-game): A multiplayer space game with enemy ships controlled by Reinforcement Learning agents, utilizing a server-authoritative multiplayer system and FishNet networking solution. Additionally, I created a random star system with procedurally generated planets.
-- [NeuroEvolution Asteroid Game](https://github.com/emrenitim/neuroevolution-asteroid-game): I developed both the asteroid game and the AI components. The project involved creating a JavaScript-based asteroid game, and then implementing and training an agent using the NeuroEvolution algorithm to play the game effectively.
+### Languages
+>Java, C, C#, JavaScript, Python, Assembly, Processing, Pascal, Prolog
+### Interests
+>Simulating Physics, Procedural Generation, Computer Graphics, Minecraft Addon Development, Machine Learning, Game AI Agents
+### Technologies
+>p5js, Unity, ML-Agents, FishNet Networking
+### Currently Learning
+>Shader Programming
 
-## Learning and Interests
-Currently, I'm expanding my knowledge in computer graphics concepts, shader programming, Unity and ML-Agents, and I'm also interested in exploring alternative game engines and tools that combine AI and game development.
+### Navigate Profile
+- [Computer Science Practices:](https://github.com/EmreNtm/cs-practices)
+>Languages | Algorithms | Data Structures | Machine Learning | Big Data Analysis | Image Processing
 
-## Hobbies
-Outside of coding and playing games, I have a few hobbies that I enjoy:
 
-- Magic: I have been fascinated by magic since my childhood and have been learning and practicing various tricks. Currently, I am focusing on coin magic and exploring its intricacies.
-- Piano: I have been self-teaching piano for the past 5 years. It has been an incredible journey, and I find joy in continually learning and improving my piano skills.
-- Lucid Dreaming: For the past 3 years, I have been practicing lucid dreaming. Exploring the realm of lucid dreams allows me to delve into the depths of my subconscious mind and experience vivid and interactive dreams.
+- Minecraft Related Projects
+>[Inverse Kinematics Library:](https://github.com/EmreNtm/minecraft-inversekinematics-tentacle) A library you can use to create 3D inverse kinematics tentacles.\
+[ProjectKorra Addon Abilities:]() Collection of my addon abilities for ProjectKorra  plugin.\
+[ProjectKorra Hackathon Pack:](https://github.com/EmreNtm/pk-hackathonpack-2021) A smaller addon ability pack for 2021 ProjectKorra Hackathon.\
+[ProjectKorra Tutorials:](https://github.com/EmreNtm/projectkorra-tutorials) ProjectKorra addon ability templates for different kind of abilities.\
+[TerraSense:](https://github.com/EmreNtm/terrasense) An addon ability that simulates Toph's seismicsensing using packet manipulation.
 
-My hobbies in magic and lucid dreaming enhance my creativity and provide me with unique perspectives. Self-teaching piano demonstrates my dedication to learning new skills and my ability to embrace challenges.
+  > Download my addons -> [ProjectKorra Resources](https://projectkorra.com/forum/members/hiro3.18886/#resources)
 
-## Contact and Links
-- Email: emrenitim@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/emrenitim)
-- [ProjectKorra Forum Page](https://projectkorra.com/forum/members/emre-nitim.18109/)
+- Others
+>[Genetic Algorithm Visualization:](https://github.com/EmreNtm/genetic-algorithm-visualization) Genetic Algorithm practice to find the most optimized scanned area of multiple drones.\
+>[Asteroids NeuroEvolution Visualization:](https://github.com/EmreNtm/asteroids-neuroevolution) NeuroEvolution visualization for my p5js Asteroids game.\
+>[Flocking Movement Simulation:](https://github.com/EmreNtm/3d-flocking-movement-simulation) A Processing 3D physics simulation to visualize boids and collision behaviors.\
+>[Fish Survival Game:](https://github.com/EmreNtm/webgl-fish-survival) A simple WebGL fish survival game.\
+>[Greenhouse Temperature Manager:](https://github.com/EmreNtm/cdtp) A desktop app to manage temperature devices of different greenhouses.\
+>[Hearthstone Deck Finder:](https://github.com/EmreNtm/hearthstone-deck-finder) A simple console app to list Hearthstone decks from hearthpwn.com.
 
-Feel free to reach out to me for collaboration, internship opportunities, or any inquiries.
 
+
+## Contact  
+- [LinkedIn](https://www.linkedin.com/in/emre-nitim-12484318b/)  
+- [emrenitim@gmail.com](mailto:emrenitim@gmail.com)  
