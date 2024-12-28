@@ -37,5 +37,5 @@ Game Development | Artifical Intelligence | Addon Development
 
 
 ## Contact  
-- [LinkedIn](https://www.linkedin.com/in/emre-nitim-12484318b/)  
+- [LinkedIn](https://www.linkedin.com/in/emre-nitim/)  
 - [emrenitim@gmail.com](mailto:emrenitim@gmail.com)  
